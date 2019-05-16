@@ -1,0 +1,218 @@
+{
+  "meta": {
+    "title": "Kentucky Jeopardy Trivia",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sed maximus justo. Etiam sollicitudin faucibus blandit. Morbi malesuada convallis tincidunt. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer mattis neque at mauris rhoncus mattis.",
+    "socialCard": "",
+    "url": "",
+    "propertyName": "Courier Journal",
+    "twitterHandle": "@courierjournal"
+  },
+  "quiz": {
+    "template": "jeopardy",
+    "sponsorLogo": "",
+    "sponsorUrl": "",
+    "randomizeQuestions": false,
+    "randomizeChoices": false,
+    "confettiMode": false,
+    "beginText": "Let's get started!",
+    "questions": [
+      {
+        "question": "It's not just Jor-El's planet, it's a Kentucky town named for element 36",
+        "choices": [
+          "What is Krypton",
+          "What is Argon",
+          "What is Carbondale",
+          "What is Xenon"
+        ],
+        "answer": {
+          "index": 0
+        }
+      },
+      {
+        "question": "The first amicus curiae filed before the Supreme Court came in 1821 from this Kentucky attorney & congressman",
+        "choices": [
+          "Who is Henry Dixon Allen",
+          "Who is Green Adams",
+          "Who is Henry Clay",
+          "Who is John Adair"
+        ],
+        "answer": {
+          "index": 2
+        }
+      },
+      {
+        "question": "From Kentucky, the hot brown is an open-faced turkey & bacon sandwich topped with this cheesy bechamel sauce",
+        "choices": [
+          "What is Nantua",
+          "What is Mornay",
+          "What is Bechamel",
+          "What is Soubise"
+        ],
+        "answer": {
+          "index": 1
+        }
+      },
+      {
+        "question": "Meriwether Lewis Clark created the Kentucky Derby to replicate the derby at this \"salt\"y site in England",
+        "choices": [
+          "What is Brighton",
+          "What is Cartmel",
+          "What is Salisbury",
+          "What is Epsom Downs"
+        ],
+        "answer": {
+          "index": 3
+        }
+      },
+      {
+        "question": "Controversial Texas state senator Wendy, controversial Kentucky county clerk Kim",
+        "choices": [
+          "Who is Davis",
+          "Who is Greene",
+          "Who is Williams",
+          "Who is Basinger"
+        ],
+        "answer": {
+          "index": 0
+        }
+      },
+      {
+        "question": "Kentucky & Maryland, which both host legs of the Triple Crown, both have this as the state horse",
+        "choices": [
+          "What is a Mustang",
+          "What is a Thoroughbred",
+          "What is an Appaloosa",
+          "What is an American Quarter Horse"
+        ],
+        "answer": {
+          "index": 1
+        }
+      },
+      {
+        "question": "In a Cameron Crowe movie, Orlando Bloom returns to this Kentucky place",
+        "choices": [
+          "What is Louisville",
+          "What is Covington",
+          "What is Cynthiana",
+          "What is Elizabethtown"
+        ],
+        "answer": {
+          "index": 3
+        }
+      },
+      {
+        "question": "This 6-word phrase about sticking together is Kentucky's state motto",
+        "choices": [
+          "What is 'United we stand, divided we fall'",
+          "What is 'With God, all things are possible'",
+          "What is 'Ense petit placidam sub libertate quietem'",
+          "What is 'She flies with her own wings'"
+        ],
+        "answer": {
+          "index": 0
+        }
+      },
+      {
+        "question": "8 sweet rides at Kentucky's National Corvette Museum were almost lost to this",
+        "choices": [
+          "What is a Tornado",
+          "What is a Sinkhole",
+          "What is a Earthquake",
+          "What is a Structure collapse"
+        ],
+        "answer": {
+          "index": 1
+        }
+      },
+      {
+        "question": "Kentucky's Cumberland Falls often feature this; a rainbow with light from a satellite, not a star",
+        "choices": [
+          "What is a moonbow",
+          "What is a polaris",
+          "What is a prism",
+          "What is an aurora"
+        ],
+        "answer": {
+          "index": 0
+        }
+      },
+      {
+        "question": "One genealogist estimates around 90% of Kentucky's 1790 population had arrived there via this road",
+        "choices": [
+          "What is The Braddock Road",
+          "What is The Underground Railroad",
+          "What is The Wildnerness Road",
+          "What is The Cumberland Road "
+        ],
+        "answer": {
+          "index": 2
+        }
+      },
+      {
+        "question": "Father to War Admiral, this horse who died in 1947 is buried under his statue at the Kentucky Horse Park",
+        "choices": [
+          "Who is Man O' War",
+          "Who is Secretariat",
+          "Who is Eight Belles",
+          "Who is Smarty Jones"
+        ],
+        "answer": {
+          "index": 0
+        }
+      },
+      {
+        "question": "Mummified Indian remains have been found at this Kentucky national park",
+        "choices": [
+          "What is Cumberland Gap",
+          "What is Big South Fork",
+          "What is Red River Gorge ",
+          "What is Mammoth Cave"
+        ],
+        "answer": {
+          "index": 3
+        }
+      },
+      {
+        "question": "The Kentucky bourbon Old Tub was renamed this, for the man who rebuilt the family business after prohibition",
+        "choices": [
+          "What is Jim Beam",
+          "What is Evan Williams",
+          "What is Elijah Craig",
+          "What is Old Rip Van Winkle"
+        ],
+        "answer": {
+          "index": 3
+        }
+      },
+      {
+        "question": "Half of a deadly feud, this family lived primarily in Kentucky; their rivals, in West Virginia",
+        "choices": [
+          "Who are The Hatfields",
+          "Who are The McCoys",
+          "Who are The Joneses",
+          "Who are The Grahams"
+        ],
+        "answer": {
+          "index": 1
+        }
+      }
+    ]
+  },
+  "results": {
+    "template": "jeopardy-results",
+    "answers": [
+      {
+        "chatter": "Cowboy up. You’ll have winning thoroughbred success in no time.",
+        "html": ""
+      },
+      {
+        "chatter": "Well done. You’re on the Kentucky Derby trail.",
+        "html": ""
+      },
+      {
+        "chatter": "Congratulations. You deserve Kentucky Colonel honors.",
+        "html": ""
+      }
+    ]
+  }
+}
